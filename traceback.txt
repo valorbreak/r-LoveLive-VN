@@ -18,4 +18,4 @@ ScriptError: could not find label 'good_end'.
 
 Windows-8-6.2.9200
 Ren'Py 6.99.8.959
-Love Live! 0.02
+Love Live! 0.0
